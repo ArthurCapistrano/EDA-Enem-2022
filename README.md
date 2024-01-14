@@ -1,4 +1,4 @@
-# <span style='color:#40E0D0'> EDA-Enem-2022</span>
+# EDA-Enem-2022
 Projeto para Análise Exploratória de Micro dados disponíveis pelo Enem 2022.  
 
 Acompanhado de observações gerais dos candidatos, reconhecendo o candidato padrão do Enem, além do foco acerca de características e sua influência sobre as notas.
@@ -21,4 +21,4 @@ NU_NOTA_LC
 NU_NOTA_MT
 NU_NOTA_REDACAO
 
-Microdados: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
+Microdados Enem: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
